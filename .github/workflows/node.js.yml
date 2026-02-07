@@ -25,7 +25,7 @@ jobs:
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist   # use "build" if React CRA
+          path: build   # use "build" if React CRA
 
   deploy:
     needs: build
