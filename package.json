@@ -2,6 +2,7 @@
   "name": "test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/Bryan-2007/internship-at-eloiacs",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^19.0.0",
